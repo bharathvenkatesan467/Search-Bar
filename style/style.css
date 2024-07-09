@@ -1,0 +1,24 @@
+body{
+    background-color: #36C2CE;
+}
+div{
+    text-align: center;
+    padding-top: 300px ;
+}
+input{
+    width: 400px;
+    height: 30px;
+}
+input:focus{
+    background-color:#77E4C8 ;
+}
+button{
+    background-color: #478CCF;
+}
+form{
+    display: flex;
+    padding-left: 550px;
+}
+button:hover{
+    background-color: #77E4C8;
+}
